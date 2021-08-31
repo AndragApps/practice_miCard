@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
                 ),
               ),
               Text(
-                "Andrag Apps",
+                "Chirag Sitapara",
                 style: TextStyle(
                   fontFamily: "Pacifico-Regular",
                   fontSize: 30.0,
@@ -84,7 +84,7 @@ class MyHomePage extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    "+64-22-467-9419",
+                    "+64-88-497-9419",
                     style: TextStyle(
                       fontFamily: "SourceSansPro-Regular",
                       fontSize: 20.0,
@@ -104,7 +104,7 @@ class MyHomePage extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    "admin@andrag.co.nz",
+                    "info@flutterdeveloper.co.nz",
                     style: TextStyle(
                       fontFamily: "SourceSansPro-Regular",
                       fontSize: 20.0,
