@@ -1,0 +1,44 @@
+    - family: Courgette
+      fonts:
+        - asset: res/andrag_fonts/fonts/Courgette/Courgette-Regular.ttf
+          weight: 700
+    - family: HinaMincho-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/Hina_Mincho/HinaMincho-Regular.ttf
+          weight: 700
+    - family: MajorMonoDisplay-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/Major_Mono_Display/MajorMonoDisplay-Regular.ttf
+          weight: 700
+    - family: Merienda-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/Merienda/Merienda-Regular.ttf
+          weight: 700
+    - family: Merienda-Bold
+      fonts:
+        - asset: res/andrag_fonts/fonts/Merienda/Merienda-Bold.ttf
+          weight: 700
+    - family: Rancho-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/Rancho/Rancho-Regular.ttf
+          weight: 700
+    - family: LibreBaskerville-Bold
+      fonts:
+        - asset: res/andrag_fonts/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf
+          weight: 700
+    - family: LibreBaskerville-Italic
+      fonts:
+        - asset: res/andrag_fonts/fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf
+          weight: 700
+    - family: LibreBaskerville-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf
+          weight: 700
+    - family: Pacifico-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/Pacifico/Pacifico-Regular.ttf
+          weight: 700
+    - family: SourceSansPro-Regular
+      fonts:
+        - asset: res/andrag_fonts/fonts/SourceSansPro/SourceSansPro-Regular.ttf
+          weight: 700
