@@ -1,3 +1,6 @@
+# About the Repo..!
+A Flutter application for beginners, the name of the application is "Mi Card", which shows a user image, name, Job Title, and contact information.
+
 # Application Screenshots
 ![flutter_01](https://user-images.githubusercontent.com/63476444/131561100-7742d919-3ab7-4111-97a4-4e0c826843bc.png)
 
